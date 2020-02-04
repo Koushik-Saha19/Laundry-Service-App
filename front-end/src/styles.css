@@ -1,0 +1,17 @@
+ 
+  .Star {
+    
+    font-size: 2em;
+    color: #cfd8dc;
+    cursor: pointer;
+    transition: all 0.3s;
+  }
+
+  #rating{
+    color: wheat;
+    background-color:#47473b;
+    box-shadow: 0px 4px 12px 6px #ccc;
+    
+    
+  }
+  
