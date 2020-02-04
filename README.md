@@ -2,6 +2,20 @@
 
 As the name tells this app can be used for any laundry service business.Briefly explaining the working of this app, there is 3 types of user in this app which are admin,delivery boy and customer.If any Customer want to use this app he has to register first and then login and then he can place order and then delivery boy will come to pick his cloths. After washing the cloths the delivery boy will again deliver the cloths to that customer.Here everything in this wiil be monitored by the admin.
 
+
+#### Login Page
+![Login Page](Front-page.PNG)
+
+#### Admin Page
+![Admin-Page](Admin-Page.PNG)
+
+#### Delivery Boy Page
+![DeliveryBoy-Page](DeliveryBoy-Page.PNG)
+
+#### Customer Page
+![Customer-Page](Customer-Page.PNG)
+
+
 # How to use
 1. For admin: His username and password both are "admin" . This username and password is hardcoded  in frontend part.
 2. For delivery boy: His username and password both are "deliver" . This username and password is hardcoded  in frontend part.
