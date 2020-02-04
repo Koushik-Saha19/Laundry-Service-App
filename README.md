@@ -21,7 +21,7 @@ A step by step series of examples that tell you how to get a development env run
 
 ### 2. Open the back-end folder using eclipse
 
-### 3. Run the project as 'spring boot application' in eclipse
+### 3. Run the project as 'Spring Boot App' in eclipse
 
 ## To run the Client Side 
 
